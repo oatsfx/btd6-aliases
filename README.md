@@ -31,7 +31,7 @@ I recommend the following methods for suggesting edits:
 Every JSON object is a Dictionary following this format:
 
 ```json
-{ "<T>": ["<ALIAS_1>", "<ALIAS_2>", ... "<ALIAS_n>"] }
+{ "<T>": ["<ALIAS_1>", "<ALIAS_2>", "<ALIAS_n>"] }
 ```
 
 - where `T` is a generic for the game object type. They are commonly strings, but things like path indexes need integers.
