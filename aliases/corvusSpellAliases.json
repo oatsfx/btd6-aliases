@@ -1,0 +1,25 @@
+{
+  "Aggression": ["a", "aggression", "angry", "angy", "agro"],
+  "Malevolence": ["m", "malevolence", "male", "violence"],
+  "Spear": ["sp", "spear"],
+  "Storm": ["st", "storm", "lightning", "thunder", "zap"],
+  "AncestralMight": [
+    "am",
+    "ancestralmight",
+    "ancestral",
+    "ancestry",
+    "ancest",
+    "might"
+  ],
+  "Recovery": ["r", "recovery", "recover", "recov"],
+  "SoulBarrier": ["sb", "soulbarrier", "soul", "barrier"],
+  "Frostbound": ["f", "frostbound", "frost", "freeze"],
+  "Ember": ["em", "ember", "fire", "emb"],
+  "Overload": ["o", "overload", "load"],
+  "Repel": ["rep", "repel"],
+  "Haste": ["h", "haste"],
+  "Echo": ["e", "echo"],
+  "Trample": ["t", "trample", "sauda"],
+  "Nourishment": ["n", "nourishment", "nourish"],
+  "Vision": ["v", "vision", "camo"]
+}

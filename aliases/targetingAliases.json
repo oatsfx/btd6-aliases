@@ -1,0 +1,20 @@
+{
+  "First": ["f"],
+  "Last": ["l"],
+  "Close": ["c"],
+  "Strong": ["s", "str"],
+  "Pursuit": ["pur"],
+  "FollowTouch": ["follow", "followmouse", "touch", "mouse"],
+  "LockInPlace": ["lock"],
+  "PatrolPoints": ["patrol"],
+  "Circle": ["circ", "cir"],
+  "FigureInfinite": ["figureinf", "inf", "figinf"],
+  "FigureEight": ["figure8", "8", "fig8"],
+  "Wingmonkey": ["wing", "wm"],
+  "Far": [],
+  "Elite": ["e"],
+  "Any": [],
+  "None": [],
+  "Random": [],
+  "StrongExceptMoab": []
+}

@@ -1,0 +1,33 @@
+{
+  "MonkeyMeadow": [
+    "mm",
+    "m_meadow",
+    "monkey_meadows",
+    "meadow",
+    "monkey",
+    "tutorial"
+  ],
+  "InTheLoop": ["il", "itl", "loop", "in", "in_the"],
+  "MiddleOfTheRoad": ["mr", "motr", "middle_road", "middleroad"],
+  "SpaPits": ["tar_pits", "pits", "spa", "sp"],
+  "Tinkerton": ["tinker", "tink", "ton"],
+  "TreeStump": ["ts", "tree", "stump"],
+  "TownCenter": ["tc", "town", "center", "town_centre"],
+  "OneTwoTree": ["ott", "ot"],
+  "Scrapyard": ["sy", "scrap", "scr", "scraps", "yard", "syard", "scyard"],
+  "TheCabin": ["cb", "cbt", "cab", "cabin", "le_cabin"],
+  "Resort": ["rs", "res", "reso"],
+  "Skates": ["s", "skate", "sk"],
+  "LotusIsland": ["li", "lotus", "lot", "island"],
+  "CandyFalls": ["cy", "candy", "cfalls", "falls", "cf"],
+  "WinterPark": ["wp", "winter"],
+  "Carved": ["cv", "cvd", "carve", "halloween"],
+  "ParkPath": ["pk", "park", "ppath"],
+  "AlpineRun": ["ar", "alpine", "alp", "run"],
+  "FrozenOver": ["fo", "frozen", "frover"],
+  "Cubism": ["c", "cub", "cube", "cubi", "cubism"],
+  "FourCircles": ["fc", "4c", "circle", "four"],
+  "Hedge": ["h", "hdg", "hej"],
+  "EndOfTheRoad": ["er", "road", "endroad", "end_road", "end", "eotr"],
+  "Logs": ["l", "log"]
+}

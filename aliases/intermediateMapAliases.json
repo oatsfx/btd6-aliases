@@ -1,0 +1,33 @@
+{
+  "LuminousCove": ["lc", "luminous", "cove"],
+  "SulfurSprings": ["su", "sulphur_springs", "sulfur", "sulphur"],
+  "WaterPark": ["wa", "wpark", "wprk"],
+  "Polyphemus": ["py", "poly"],
+  "CoveredGarden": ["ga", "covered", "garden", "cgar"],
+  "Quarry": ["qy"],
+  "QuietStreet": ["qs", "quiet"],
+  "BloonariusPrime": ["blp", "bloonarius", "bprime"],
+  "Balance": ["ba", "balanced", "bal"],
+  "Encrypted": ["en", "crypt", "encrypt"],
+  "Bazaar": ["bz", "baz"],
+  "AdorasTemple": ["at", "atemple", "adora's"],
+  "SpringSpring": ["ss", "spring"],
+  "KartsNdarts": [
+    "kd",
+    "kar",
+    "kart",
+    "karts",
+    "karts_n_darts",
+    "kartsn",
+    "knd"
+  ],
+  "MoonLanding": ["ml", "moon", "landing"],
+  "Haunted": ["ha", "haunt"],
+  "Downstream": ["ds", "down"],
+  "FiringRange": ["fr", "fir", "firing"],
+  "Cracked": ["ck", "crkd", "crack"],
+  "Streambed": ["sb", "stream"],
+  "Chutes": ["ch", "chut"],
+  "Rake": ["r", "rk", "rke"],
+  "SpiceIslands": ["si", "spice"]
+}

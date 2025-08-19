@@ -1,0 +1,24 @@
+{
+  "GlacialTrail": ["gt", "glac", "glacier"],
+  "DarkDungeons": [
+    "dd",
+    "dark",
+    "dungeon",
+    "dungeons",
+    "darkdungeon",
+    "darkdungeons",
+    "dark_dungeon",
+    "dark_dungeons"
+  ],
+  "Sanctuary": ["sa", "sanc"],
+  "Ravine": ["rv", "rav"],
+  "FloodedValley": ["fv", "flooded", "valley"],
+  "Infernal": ["if", "i", "inf", "fireymap"],
+  "BloodyPuddles": ["bp", "bloodles", "bloody"],
+  "Workshop": ["w", "ws", "wk", "work", "shop"],
+  "Quad": ["qd", "kwad"],
+  "DarkCastle": ["dc", "dca", "dank_castle", "dank", "castle"],
+  "MuddyPuddles": ["mp", "muddles", "mpuddles", "muddy", "cuddles"],
+  "#ouch": ["ou", "#o", "o", "couch", "ouch"],
+  "Blons": ["bl", "corner", "slons"]
+}

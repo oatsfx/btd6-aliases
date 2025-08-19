@@ -1,0 +1,23 @@
+{
+  "SunsetGulch": ["sunset", "sg", "gulch"],
+  "EnchantedGlade": ["enchanted", "glade", "eg"],
+  "LastResort": ["last", "lr", "lresort"],
+  "AncientPortal": ["portal", "aportal", "ap"],
+  "CastleRevenge": ["crevenge", "revenge", "cr"],
+  "DarkPath": ["dp"],
+  "Erosion": ["e", "erode"],
+  "MidnightMansion": ["mn", "midnight", "mansion"],
+  "SunkenColumns": ["sc", "sunk", "sunken", "scull"],
+  "XFactor": ["xf", "xfac", "factor"],
+  "Mesa": ["ms"],
+  "Geared": ["gd", "gear", "grd", "geard"],
+  "Spillway": ["sw", "spill", "way"],
+  "Cargo": ["cg", "cgo", "car", "go"],
+  "PatsPond": ["pp", "pond", "ppond", "pats_pond", "patspond", "pat's"],
+  "Peninsula": ["pn", "peni", "pen", "penin"],
+  "HighFinance": ["hf", "hifi", "hi-fi", "finance", "fin", "high"],
+  "AnotherBrick": ["ab", "abrick", "another"],
+  "OffTheCoast": ["of", "off", "otc", "coast"],
+  "Cornfield": ["corn", "field"],
+  "Underground": ["ug", "under", "ground"]
+}

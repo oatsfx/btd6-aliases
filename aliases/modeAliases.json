@@ -1,0 +1,21 @@
+{
+  "Easy": ["ez", "ease", "e"],
+  "PrimaryOnly": ["primary", "prim"],
+  "Deflation": ["deflate", "deflat"],
+  "Medium": ["med", "m"],
+  "Reverse": ["backwards", "rev", "back"],
+  "MilitaryOnly": ["military", "mili"],
+  "Apopalypse": ["apop", "apoc", "apocalypse"],
+  "Hard": ["har", "h", "hd"],
+  "AlternateBloonsRounds": ["abr", "alt", "abloon"],
+  "DoubleMoabHealth": ["dbh", "dbhp", "doublehpmoabs", "doublehpmoab"],
+  "MagicOnly": ["magic", "mag"],
+  "Impoppable": ["impop", "impopp", "impossible"],
+  "Chimps": [
+    "chimp",
+    "click",
+    "clicks",
+    "no_cash_hitpoints_income_monkey_knowledge_powers_selling"
+  ],
+  "HalfCash": ["1/2", "half", "hc", "broke"]
+}
