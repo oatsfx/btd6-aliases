@@ -108,5 +108,8 @@
   "Psionic Scream": ["psiscream", "scream", "psi10"],
   "Soul Harvest": ["soul", "harvest"],
   "Spirit Walk": ["walk", "spirit"],
-  "Dark Ritual": ["dr", "ritual"]
+  "Dark Ritual": ["dr", "ritual"],
+  "Frostbite": ["frostbite", "frost", "fbite", "bite", "slias3"],
+  "Frozen Cascade": ["frozencascade", "cascade", "fc", "slias7"],
+  "Frozen Burial": ["frozenburial", "fb", "burial", "icewalls", "slias10"]
 }
