@@ -47,6 +47,7 @@
   "Alchemist": ["alch", "alchemist", "alk", "alc"],
   "Druid": ["druid", "drood", "dru", "druid-monkey"],
   "Mermonkey": ["merm", "mermaid", "mer"],
+  "Skywarden": ["sky", "sky_warden", "skyward"],
   "BananaFarm": ["monkey-farm", "farm", "nan", "nana"],
   "SpikeFactory": [
     "spact",
@@ -78,6 +79,15 @@
     "tank",
     "winston",
     "cap"
+  ],
+  "DanDMonke": [
+    "dan",
+    "dand",
+    "danmonke",
+    "d'monke",
+    "dan_d'monke",
+    "masqued_macaque",
+    "masquedmacaque"
   ],
   "Etienne": ["et", "eti"],
   "Ezili": ["voodo", "vm", "ezi", "ezil", "voodoo"],

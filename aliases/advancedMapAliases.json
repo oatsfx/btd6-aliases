@@ -1,8 +1,10 @@
 {
+  "Ascent": ["asc"],
+  "MushroomGrotto": ["mush", "shroom", "mg", "grotto"],
+  "PartyParade": ["party", "parade", "pap", "papa"],
   "SunsetGulch": ["sunset", "sg", "gulch"],
   "EnchantedGlade": ["enchanted", "glade", "eg"],
   "LastResort": ["last", "lr", "lresort"],
-  "AncientPortal": ["portal", "aportal", "ap"],
   "CastleRevenge": ["crevenge", "revenge", "cr"],
   "DarkPath": ["dp"],
   "Erosion": ["e", "erode"],
