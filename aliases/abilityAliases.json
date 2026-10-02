@@ -52,6 +52,8 @@
   "Vine Rupture": ["rupture"],
   "MermonkyAbility": ["icejet", "ij", "mermonkey"],
   "MermonkyAbilityBig": ["popicejet", "pij", "mermonkeybig"],
+  "ThunderCharge": ["thunder", "lightning", "decree", "thundersdecree"],
+  "BigThunderAbility": ["stormwrath", "archon", "stormwratharchon"],
   "IMF loan": ["loan", "debt"],
   "Monkey-Nomics": ["monkeynomics", "nomics", "freemoney"],
   "Spike Storm": ["ss"],
@@ -111,5 +113,31 @@
   "Dark Ritual": ["dr", "ritual"],
   "Frostbite": ["frostbite", "frost", "fbite", "bite", "slias3"],
   "Frozen Cascade": ["frozencascade", "cascade", "fc", "slias7"],
-  "Frozen Burial": ["frozenburial", "fb", "burial", "icewalls", "slias10"]
+  "Frozen Burial": ["frozenburial", "fb", "burial", "icewalls", "slias10"],
+  "Transform Ability": [
+    "transformation",
+    "dan3",
+    "dandmonke3",
+    "masquedmacaque3",
+    "masked3",
+    "macaque3"
+  ],
+  "Teleport": ["reposition", "repos", "dan7", "dandmonke7"],
+  "Battlecry": ["rabble", "rouser", "rabblerouser", "dan10", "dandmonke10"],
+  "LeapingSmash": [
+    "volant",
+    "strike",
+    "volantstrike",
+    "masquedmacaque7",
+    "masked7",
+    "macaque7"
+  ],
+  "Warcry": [
+    "berserk",
+    "frenzy",
+    "berserkfrenzy",
+    "masquedmacaque10",
+    "masked10",
+    "macaque10"
+  ]
 }

@@ -21,7 +21,7 @@ for file in glob.glob("../../aliases/*.json"):
 
     if duplicates:
         found_duplicates = True
-        print(f"❌ Duplicate aliases found in {file}:\n")
+        print(f"Duplicate aliases found in {file}:\n")
         for alias, objs in duplicates.items():
             print(f"  '{alias}' appears in:")
             for obj in objs:
@@ -31,4 +31,4 @@ for file in glob.glob("../../aliases/*.json"):
 if found_duplicates:
     sys.exit(1)
 
-print("✅ No duplicate aliases found in any file.")
+print("No duplicate aliases found in any file.")

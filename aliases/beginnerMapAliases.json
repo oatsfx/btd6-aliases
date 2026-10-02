@@ -8,6 +8,8 @@
     "tutorial"
   ],
   "InTheLoop": ["il", "itl", "loop", "in", "in_the"],
+  "SkullTweak": ["st", "skull", "tweak"],
+  "ThreeMinesAround": ["three", "3mines", "tma", "3ma", "mines", "around"],
   "MiddleOfTheRoad": ["mr", "motr", "middle_road", "middleroad"],
   "SpaPits": ["tar_pits", "pits", "spa", "sp"],
   "Tinkerton": ["tinker", "tink", "ton"],
